@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://teams-i.abbvienet.com/avepoint/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+	<id>5ad339ce-3815-4f4f-ae96-25237580790a</id>
+	<title />
+	<updated>2018-12-26T15:25:18Z</updated>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(19)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(19)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(19)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(19)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">19</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Approvers</d:LoginName>
+				<d:Title>Approvers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Members of this group can edit and approve pages, list items, and documents.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(17)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(17)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(17)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(17)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">17</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Designers</d:LoginName>
+				<d:Title>Designers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description xml:space="preserve">Members of this group can edit lists, document libraries, and pages in the site. Designers can create Master Pages and Page Layouts in the Master Page Gallery and can change the behavior and appearance of each site in the site collection by using master pages and CSS files.  </d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(3)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(3)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(3)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(3)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">3</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Excel Services Viewers</d:LoginName>
+				<d:Title>Excel Services Viewers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Members of this group can view pages, list items, and documents.  If the document has a server rendering available, they can only view the document using the server rendering.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>System Account</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(698)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(698)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(698)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(698)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">698</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Get an Idea Members</d:LoginName>
+				<d:Title>Get an Idea Members</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people contribute permissions to the SharePoint site: Get an Idea</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Get an Idea Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(696)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(696)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(696)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(696)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">696</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Get an Idea Owners</d:LoginName>
+				<d:Title>Get an Idea Owners</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people full control permissions to the SharePoint site: Get an Idea</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Get an Idea Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(699)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(699)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(699)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(699)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">699</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Get an Idea Visitors</d:LoginName>
+				<d:Title>Get an Idea Visitors</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people read permissions to the SharePoint site: Get an Idea</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Get an Idea Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(18)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(18)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(18)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(18)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">18</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Hierarchy Managers</d:LoginName>
+				<d:Title>Hierarchy Managers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description xml:space="preserve">Members of this group can create sites, lists, list items, and documents. </d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(356)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(356)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(356)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(356)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">356</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Manager Approvers</d:LoginName>
+				<d:Title>Manager Approvers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description/>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Stepney, John D</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(1131)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(1131)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(1131)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(1131)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">1131</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Nintex Members</d:LoginName>
+				<d:Title>Nintex Members</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people contribute permissions to the SharePoint site: Nintex</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Nintex Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(1130)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(1130)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(1130)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(1130)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">1130</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Nintex Owners</d:LoginName>
+				<d:Title>Nintex Owners</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people full control permissions to the SharePoint site: Nintex</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Nintex Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(1132)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(1132)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(1132)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(1132)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">1132</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Nintex Visitors</d:LoginName>
+				<d:Title>Nintex Visitors</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people read permissions to the SharePoint site: Nintex</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Nintex Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(21)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(21)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(21)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(21)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">21</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Quick Deploy Users</d:LoginName>
+				<d:Title>Quick Deploy Users</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Members of this group can schedule Quick Deploy jobs.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(20)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(20)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(20)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(20)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">20</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Restricted Readers</d:LoginName>
+				<d:Title>Restricted Readers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Members of this group can view pages and documents, but cannot view historical versions or review user rights information.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(349)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(349)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(349)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(349)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">349</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>SP1UpdgradeTest</d:LoginName>
+				<d:Title>SP1UpdgradeTest</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">true</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description/>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Koppolu, Venkata Ramana</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting>abhishek.tyagi@Abbvie.com</d:RequestToJoinLeaveEmailSetting>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(16)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(16)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(16)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(16)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">16</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Style Resource Readers</d:LoginName>
+				<d:Title>Style Resource Readers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to give read permissions to the Master Page gallery and Style Library, which are required to browse this site. Do not delete this group.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(7)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(7)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(7)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(7)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">7</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Teams Members</d:LoginName>
+				<d:Title>Teams Members</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people contribute permissions to the SharePoint site: Teams</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting/>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(5)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(5)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(5)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(5)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">5</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Teams Owners</d:LoginName>
+				<d:Title>Teams Owners</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people full control permissions to the SharePoint site: Teams</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting/>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(6)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(6)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(6)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(6)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">6</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Teams Visitors</d:LoginName>
+				<d:Title>Teams Visitors</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people read permissions to the SharePoint site: Teams</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting/>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(600)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(600)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(600)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(600)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">600</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Test Members</d:LoginName>
+				<d:Title>Test Members</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people contribute permissions to the SharePoint site: test</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Test Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(598)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(598)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(598)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(598)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">598</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Test Owners</d:LoginName>
+				<d:Title>Test Owners</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people full control permissions to the SharePoint site: test</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Test Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(601)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(601)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(601)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(601)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">601</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Test Visitors</d:LoginName>
+				<d:Title>Test Visitors</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Use this group to grant people read permissions to the SharePoint site: test</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">false</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Test Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>https://teams-i.abbvienet.com/avepoint/_api/Web/SiteGroups/GetById(23)</id>
+		<category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+		<link rel="edit" href="Web/SiteGroups/GetById(23)" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner" type="application/atom+xml;type=entry" title="Owner" href="Web/SiteGroups/GetById(23)/Owner" />
+		<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Users" type="application/atom+xml;type=feed" title="Users" href="Web/SiteGroups/GetById(23)/Users" />
+		<title />
+		<updated>2018-12-26T15:25:18Z</updated>
+		<author>
+			<name />
+		</author>
+		<content type="application/xml">
+			<m:properties>
+				<d:Id m:type="Edm.Int32">23</d:Id>
+				<d:IsHiddenInUI m:type="Edm.Boolean">false</d:IsHiddenInUI>
+				<d:LoginName>Translation Managers</d:LoginName>
+				<d:Title>Translation Managers</d:Title>
+				<d:PrincipalType m:type="Edm.Int32">8</d:PrincipalType>
+				<d:AllowMembersEditMembership m:type="Edm.Boolean">false</d:AllowMembersEditMembership>
+				<d:AllowRequestToJoinLeave m:type="Edm.Boolean">false</d:AllowRequestToJoinLeave>
+				<d:AutoAcceptRequestToJoinLeave m:type="Edm.Boolean">false</d:AutoAcceptRequestToJoinLeave>
+				<d:Description>Members of this group can translate pages, list items and documents in Variations.</d:Description>
+				<d:OnlyAllowMembersViewMembership m:type="Edm.Boolean">true</d:OnlyAllowMembersViewMembership>
+				<d:OwnerTitle>Teams Owners</d:OwnerTitle>
+				<d:RequestToJoinLeaveEmailSetting m:null="true" />
+			</m:properties>
+		</content>
+	</entry>
+</feed>
